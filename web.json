@@ -1,0 +1,32 @@
+{
+  "greeting_text": "{ ファハド }！",
+  "background": "#1e1e2e",
+  "foreground": "#f5e0dc",
+  "search_engine": "https://www.google.co.id/search?q=",
+  "favourites": [
+    {
+      "key": ":fb",
+      "url": "http://facebook.com"
+    },
+    {
+      "key": ":tt",
+      "url": "http://twitter.com"
+    },
+    {
+      "key": ":ig",
+      "url": "http://instagram.com"
+    },
+    {
+      "key": ":yt",
+      "url": "http://youtu.be"
+    },
+    {
+      "key": ":gh",
+      "url": "http://github.com"
+    },
+    {
+      "key": ":em",
+      "url": "http://gmail.com"
+    }
+  ]
+}

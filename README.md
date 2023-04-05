@@ -1,6 +1,6 @@
 <h1 align=center>CatpuccinVim Startpage</h1>
 <h5 align=center>vim-command-like minimal startpage for your browser</h5>
-<h5> Inspired by </h5>[Okitavera vimstart](https://github.com/okitavera/vimstart)
+Inspired by [Okitavera vimstart](https://github.com/okitavera/vimstart)
 
 ![previews](https://user-images.githubusercontent.com/9277632/37031211-7f55d200-2170-11e8-8424-c9f2b6c21135.gif)
 

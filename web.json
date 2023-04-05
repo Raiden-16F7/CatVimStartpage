@@ -2,7 +2,7 @@
   "greeting_text": "{ ファハド }！",
   "background": "#1e1e2e",
   "foreground": "#f5e0dc",
-  "search_engine": "https://www.google.co.id/search?q=",
+  "search_engine": "https://www.google.com/search?q=",
   "favourites": [
     {
       "key": ":fb",

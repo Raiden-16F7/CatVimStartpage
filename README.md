@@ -1,4 +1,4 @@
-<h1 align=center>vimstart</h1>
+<h1 align=center>CatpuccinVim Startpage</h1>
 <h5 align=center>vim-command-like minimal startpage for your browser</h5>
 
 ![previews](https://user-images.githubusercontent.com/9277632/37031211-7f55d200-2170-11e8-8424-c9f2b6c21135.gif)
@@ -7,7 +7,7 @@
 
 Clone this repo
 
-    git clone https://github.com/yuune/yuune-vim-startpage.git
+    git clone https://github.com/Raiden-16F7/CatVimStartpage.git
     
 And set the index.html as homepages or new tabs in your browser.
 
@@ -31,20 +31,25 @@ There is a few command that can be used :
 
 ## Editing
 
-SEE [`web.json`](web.json).
+To customize colors and Greeting Text see: [`web.json`](web.json).
 
 
 ## Frequently Asked Question
 
-##### This things doesn't works well in my google chrome, fix please.
+##### You need to provide local file access to your browser 
 
 Due to security issues in chrome, they disabled local file access, so our web.json can't be readed. 
 
-To enable it, pass `--allow-file-access-from-files` top your chrome args, example :
+For Chrome:
 
-     $ /usr/bin/google-chrome --allow-file-access-from-files
+    Run cmd to get a command window.
+    Move to the Chrome directory, e.g., cd C:\Users\your-user-name\AppData\Local\Google\Chrome\Application.
+    Type: chrome.exe --allow-file-access-from-files.
 
-Source: http://blog.derraab.com/2013/05/30/start-google-chrome-with-local-file-access-on-mac-os-x/
+For Firefox or Waterfox:
+    
+    Type about:config in searchbar to go into browser settings,
+    Search for security.fileuri.strict_origin_policy and double click on it to set it false.
 
 
 ## License

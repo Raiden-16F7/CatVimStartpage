@@ -27,6 +27,14 @@
     {
       "key": ":em",
       "url": "http://gmail.com"
+    },
+    {
+      "key":":ux",
+      "url":"https://www.reddit.com/r/unixporn/"
+    },
+    {
+      "key":":wp",
+      "url":"https://web.whatsapp.com/"
     }
   ]
 }

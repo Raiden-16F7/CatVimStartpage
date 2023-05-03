@@ -1,6 +1,6 @@
 {
   "greeting_text": "{ ファハド }",
-  "background": "#1e1e2e",
+  "background": "#11111b",
   "foreground": "#f5e0dc",
   "search_engine": "https://www.google.com/search?q=",
   "favourites": [
@@ -29,12 +29,12 @@
       "url": "http://gmail.com"
     },
     {
-      "key":":ux",
-      "url":"https://www.reddit.com/r/unixporn/"
+      "key": ":ux",
+      "url": "https://www.reddit.com/r/unixporn/"
     },
     {
-      "key":":wp",
-      "url":"https://web.whatsapp.com/"
+      "key": ":wp",
+      "url": "https://web.whatsapp.com/"
     }
   ]
 }
